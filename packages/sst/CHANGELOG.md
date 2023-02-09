@@ -1,5 +1,11 @@
 # @serverless-stack/cli2
 
+## 2.0.8
+
+### Patch Changes
+
+- [`8ea1f9501`](https://github.com/serverless-stack/sst/commit/8ea1f950165f26239d4df7e0702505499e24076c) Thanks [@thdxr](https://github.com/thdxr)! - Support python install commands
+
 ## 2.0.7
 
 ### Patch Changes
